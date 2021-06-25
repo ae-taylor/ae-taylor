@@ -1,8 +1,8 @@
 ### Hello! I'm Anna (she/her). 👋
 
-*Aspiring full stack web developer 
-*Rithm School Student
-*Lover of cats and hockey
+* Aspiring full stack web developer 
+* Rithm School Student
+* Lover of cats and hockey
 
 
 <!--
