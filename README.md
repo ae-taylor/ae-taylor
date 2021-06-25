@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello! I'm Anna (she/her). 👋
+
+*Aspiring full stack web developer 
+*Rithm School Student
+*Lover of cats and hockey
+
 
 <!--
 **ae-taylor/ae-taylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
