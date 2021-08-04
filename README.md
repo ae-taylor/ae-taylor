@@ -3,6 +3,7 @@
 * Full Stack Web Developer 
 * Rithm School Grad
 * Lover of cats and hockey
+* Currently seeking new opportunities! 
 
 
 <!--
