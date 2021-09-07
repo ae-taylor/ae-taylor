@@ -1,9 +1,8 @@
 ### Hello! I'm Anna (she/her). 👋
 
 * Full Stack Web Developer 
-* Rithm School Grad
+* Software Engineer @ Rithm School
 * Lover of cats and hockey
-* Currently seeking new opportunities! 
 
 
 <!--
