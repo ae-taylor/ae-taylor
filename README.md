@@ -1,7 +1,7 @@
 ### Hello! I'm Anna (she/her). 👋
 
-* Full Stack Web Developer 
 * Software Engineer @ Rithm School
+* Full Stack Web Developer 
 * Lover of cats and hockey
 
 
